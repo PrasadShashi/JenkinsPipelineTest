@@ -3,6 +3,6 @@ public class TestJava{
         System.out.println("Hello this is a Testing code for Jenkins Build");
         System.out.println("This files will be used in jenkins pipeline");
         System.out.println("Date:"+ new java.util.Date());
-        Sysout.println("Adding more changes to test webhook trigger");
+        System.out.println("Adding more changes to test webhook trigger");
     }
 }
