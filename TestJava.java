@@ -4,5 +4,7 @@ public class TestJava{
         System.out.println("This files will be used in jenkins pipeline");
         System.out.println("Date:"+ new java.util.Date());
         System.out.println("Adding more changes to test webhook trigger");
+        Student student = new Student();
+        System.out.println(student.printmessage());
     }
 }
