@@ -6,5 +6,6 @@ public class TestJava{
         System.out.println("Adding more changes to test webhook trigger");
         Student student = new Student();
         System.out.println(student.printmessage());
+        System.out.println("Test Jenkins pull using git commands");
     }
 }
