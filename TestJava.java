@@ -7,6 +7,6 @@ public class TestJava{
         Student student = new Student();
         System.out.println(student.printmessage());
         System.out.println("Test Jenkins pull using git commands");
-        Systemout.println("Adding more changes to test git commit and push");
+        System.out.println("Adding more changes to test git commit and push");
     }
 }
