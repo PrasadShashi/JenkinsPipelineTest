@@ -4,6 +4,7 @@ public class Student {
 
     public Student() {
        System.out.println("Student object created");
+       System.out.println("This class is on Github");
     }
 
    public String printmessage() {
